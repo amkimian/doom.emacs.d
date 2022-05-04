@@ -1,0 +1,1 @@
+c:/Users/ukmoo/development/.emacs.d/.local/straight/repos/edit-indirect/edit-indirect.el

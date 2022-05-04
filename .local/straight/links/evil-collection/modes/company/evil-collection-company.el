@@ -1,0 +1,1 @@
+c:/Users/ukmoo/development/.emacs.d/.local/straight/repos/evil-collection/modes/company/evil-collection-company.el

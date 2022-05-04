@@ -1,0 +1,1 @@
+c:/Users/ukmoo/development/.emacs.d/.local/straight/repos/org-contrib/lisp/ol-git-link.el

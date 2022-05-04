@@ -1,0 +1,49 @@
+;; -*- mode: emacs-lisp; eval: (progn (pp-buffer) (indent-buffer)) -*-
+((def-persp "main"
+   ((def-buffer "init.el<2>" "c:/Users/ukmoo/development/.doom.d/init.el" emacs-lisp-mode)
+    (def-buffer ".doom.d" "c:/Users/ukmoo/development/.doom.d/" dired-mode)
+    (def-buffer "init.el" "c:/Users/ukmoo/development/.emacs.d/init.el" emacs-lisp-mode)
+    (def-buffer ".emacs.d" "c:/Users/ukmoo/development/.emacs.d/" dired-mode))
+   (def-wconf
+     (((min-height . 4)
+       (min-width . 10)
+       (min-height-ignore . 3)
+       (min-width-ignore . 3)
+       (min-height-safe . 1)
+       (min-width-safe . 2)
+       (min-pixel-height . 64)
+       (min-pixel-width . 80)
+       (min-pixel-height-ignore . 48)
+       (min-pixel-width-ignore . 24)
+       (min-pixel-height-safe . 16)
+       (min-pixel-width-safe . 16))
+      leaf
+      (pixel-width . 1042)
+      (pixel-height . 877)
+      (total-width . 130)
+      (total-height . 54)
+      (normal-height . 1.0)
+      (normal-width . 1.0)
+      (parameters
+       (better-jumper-struct . #s(better-jumper-jump-list-struct
+                                  (0 0 .
+                                     [nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil])
+                                  -1)))
+      (buffer "init.el<2>"
+              (selected . t)
+              (hscroll . 0)
+              (fringes 4 4 t nil)
+              (margins nil)
+              (scroll-bars nil 0 t nil 0 t nil)
+              (vscroll . 0)
+              (dedicated)
+              (point . 5327)
+              (start . 3868))
+      (prev-buffers
+       (".doom.d" 1 192)
+       ("init.el" 145 2507)
+       (".emacs.d" 1 527)
+       ("*doom*" 1 1541)
+       ("*scratch*" 1 1))))
+   (def-params nil)
+   nil nil nil))

@@ -1,0 +1,1 @@
+c:/Users/ukmoo/development/.emacs.d/.local/straight/repos/ox-clip/ox-clip.el

@@ -1,0 +1,1 @@
+c:/Users/ukmoo/development/.emacs.d/.local/straight/repos/evil-collection/modes/free-keys/evil-collection-free-keys.el

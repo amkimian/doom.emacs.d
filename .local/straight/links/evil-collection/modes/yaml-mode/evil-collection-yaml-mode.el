@@ -1,0 +1,1 @@
+c:/Users/ukmoo/development/.emacs.d/.local/straight/repos/evil-collection/modes/yaml-mode/evil-collection-yaml-mode.el

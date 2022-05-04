@@ -1,0 +1,1 @@
+c:/Users/ukmoo/development/.emacs.d/.local/straight/repos/themes/extensions/doom-themes-ext-visual-bell.el
